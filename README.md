@@ -1,8 +1,8 @@
 # PHYS227 HW 2
 
-**Author:** _\<your name\>_
+**Author:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-2-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-2-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-2-patti102.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-2-patti102)
 
 **Due date:** 2016/02/16
 
@@ -20,7 +20,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw2.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+The best part of this assignment was the Lagrangian Interpolant project. That actually made me think in a mathematical and physical way before I could even solve the problem. The worst part of the project was trying to fit the plotting required into the formats that the excercises specified. If we are able to better organize our programs and modules, should we feel free to do so?
 
 ## Honor Pledge
 
@@ -29,6 +29,8 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+As always, I looked up the meanings of my error messages and used the online python docs as well as the book instructions and code for the main template for my work.
+
 Signed,
 
-_\<your name\>_
+Taylor Patti
